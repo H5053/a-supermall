@@ -25,12 +25,10 @@
 		    type: Number,
         default: 300
       },
-      //滑动距离
       moveRatio: {
         type: Number,
         default: 0.25
       },
-      //指示器
       showIndicator: {
         type: Boolean,
         default: true

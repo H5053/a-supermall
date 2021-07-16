@@ -16,7 +16,7 @@
     flex-shrink: 0;
   }
 
-  .slide img{
+  .slide img {
     width: 100%;
   }
 </style>
